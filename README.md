@@ -17,7 +17,10 @@ vim
 
 
 lets Make sure you're running `bitcoind` with `-regtest`:
+
 ./bitcoind -regtest
+
+./bitcoin-cli -regtest help
 
 each time you run it , there is no wallets loaded .
 
