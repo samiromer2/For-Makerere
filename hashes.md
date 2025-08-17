@@ -1,7 +1,7 @@
 sha256 in terminal 
 
 
-echo -n sam->5tomomahmed | sha256sum
+echo -n hello | sha256sum
 
 printf sam->5tomomahmed | sha256sum
 
